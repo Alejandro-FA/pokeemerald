@@ -8,7 +8,6 @@ It builds the following ROM:
 
 To set up the repository, see [INSTALL.md](INSTALL.md).
 
-
 ## Contacts
 
 You can find [pret](https://github.com/pret) and other members of the community on [Discord](https://discord.gg/d5dubZ3) and [IRC](https://web.libera.chat/?#pret).
